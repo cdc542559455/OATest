@@ -1,11 +1,9 @@
-import java.util.HashMap;
-import java.util.LinkedList;
-import java.util.List;
-import java.util.Map;
+import java.util.*;
 
 public class MostFrequentDigits {
     public static void main(String[] args) {
         System.out.println(topFrequent(new int[] {22, 2, 3, 33, 555}));
+        System.out.println(topFrequent(new int[] {1,1,2,3,4,4}));
     }
 
     public static List<Integer> topFrequent(int[] arr) {
@@ -33,6 +31,7 @@ public class MostFrequentDigits {
         for(int i = arr.length - 1; i >= 0; i --) {
             if (bucket[i] != null) return bucket[i];
         }
+        Collections.sort(res);
         return res;
     }
 }
