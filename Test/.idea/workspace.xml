@@ -2,45 +2,72 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f9037dee-3b8d-4a3a-bce5-e81d0909f5e0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MatrixFlips_15.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CoolFeatture.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CoolFeatture_1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DivideArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DivideArray_4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DivisorSubString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DivisorSubString_5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DivisorSubStrings.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DivisorSubStrings_6.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Dominos.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/FindEvenDigits.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FindEvenDigits_7.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GoodTuple.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GoodTuple_8.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Keyboard.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Keyboard_10.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/KillNthPeople.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/KillNthPeople_11.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LongestBalancedBinary.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LongestBalancedBinary_12.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MatrixQueries.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MatrixQueries_13.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MatrixQuery.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MatrixQuery_14.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MaxArithmeticLength.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MaxArithmeticLength_16.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MaxRibbon.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MaxRibbon_18.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MaximumAreaServingCake.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MaximumAreaServingCake_17.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MostFrequentDigits.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MostFrequentDigits_19.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Plants.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/RotateOverDiagonals.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/RotateOverDiagonals_24.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SortArrayElements.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SortArrayElements_25.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/StripeOA.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/StripeOAmy.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SumOfString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SumOfString_27.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/compareStringGoogle.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cse331hw21.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/digitsProductSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/digitsProductSum_2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/digitsSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/digitsSum_3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/isPrefix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/isPrefix_9.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/matrixQury.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/matrixQury_15.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/parititionPalindrome2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pizzaShopGoogle.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/rameWindows.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/rameWindows_20.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/removeOneDigits.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/removeOneDigits_21.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/reverseDigitsInPairs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/reverseDigitsInPairs_22.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/rotataString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/rotataString_23.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sortDiagnal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sortDiagnal_26.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sqrt.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Test/CoolFeatture.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Test/DivideArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Test/DivisorSubString.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Test/DivisorSubStrings.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Test/Dominos.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Test/FindEvenDigits.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Test/GoodTuple.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Test/Keyboard.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Test/KillNthPeople.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Test/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Test/MatrixQueries.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Test/MatrixQuery.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Test/MaxArithmeticLength.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Test/MaxRibbon.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Test/MaximumAreaServingCake.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Test/MostFrequentDigits.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Test/Plants.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Test/RotateOverDiagonals.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Test/StripeOA$Invoice.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Test/StripeOA.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Test/StripeOAmy$Invoice.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Test/StripeOAmy.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Test/SumOfString.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Test/compareStringGoogle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Test/cse331hw21.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Test/digitsProductSum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Test/digitsSum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Test/isPrefix.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Test/matrixQury.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Test/parititionPalindrome2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Test/pizzaShopGoogle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Test/rameWindows.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Test/removeOneDigits.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Test/reverseDigitsInPairs.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Test/rotataString.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Test/sortDiagnal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Test/sqrt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CoolFeatture_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CoolFeatture_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DivideArray_4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DivideArray_4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DivisorSubString_5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DivisorSubString_5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DivisorSubStrings_6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DivisorSubStrings_6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FindEvenDigits_7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FindEvenDigits_7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/GoodTuple_8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GoodTuple_8.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Keyboard_10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Keyboard_10.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/KillNthPeople_11.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/KillNthPeople_11.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LongestBalancedBinary_12.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LongestBalancedBinary_12.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MatrixQueries_13.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MatrixQueries_13.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MatrixQuery_14.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MatrixQuery_14.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MaxArithmeticLength_16.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MaxArithmeticLength_16.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MaxRibbon_18.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MaxRibbon_18.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MaximumAreaServingCake_17.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MostFrequentDigits_19.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MostFrequentDigits_19.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/RotateOverDiagonals_24.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/RotateOverDiagonals_24.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SortArrayElements_25.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SortArrayElements_25.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SumOfString_27.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SumOfString_27.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/digitsProductSum_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/digitsProductSum_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/digitsSum_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/digitsSum_3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/isPrefix_9.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/isPrefix_9.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/matrixQury_15.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/rameWindows_20.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/rameWindows_20.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/removeOneDigits_21.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/removeOneDigits_21.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/reverseDigitsInPairs_22.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/reverseDigitsInPairs_22.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/rotataString_23.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/rotataString_23.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sortDiagnal_26.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sortDiagnal_26.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -52,42 +79,115 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/KillNthPeople_11.java">
+        <entry file="file://$PROJECT_DIR$/src/MostFrequentDigits_19.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="34">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+              <caret line="2" selection-start-line="2" selection-start-column="2" selection-end-line="6" selection-end-column="55" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/LongestBalancedBinary_12.java">
+        <entry file="file://$PROJECT_DIR$/src/rameWindows_20.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+            <state>
+              <caret selection-start-column="2" selection-end-line="17" selection-end-column="11" />
+              <folding>
+                <element signature="e#0#994#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/MatrixQueries_13.java">
+        <entry file="file://$PROJECT_DIR$/src/removeOneDigits_21.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret selection-start-column="2" selection-end-line="2" selection-end-column="58" />
+              <folding>
+                <element signature="e#0#4311#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/reverseDigitsInPairs_22.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="2" selection-start-line="2" selection-start-column="2" selection-end-line="3" selection-end-column="74" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/rotataString_23.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="22" selection-start-column="22" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/RotateOverDiagonals_24.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="34">
-              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+              <caret line="2" column="44" selection-start-line="2" selection-start-column="44" selection-end-line="2" selection-end-column="44" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/SortArrayElements_25.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="5" column="22" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/sortDiagnal_26.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="315">
+              <caret line="24" column="38" selection-start-line="24" selection-start-column="38" selection-end-line="24" selection-end-column="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/SumOfString_27.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" column="29" selection-start-line="5" selection-start-column="29" selection-end-line="5" selection-end-column="29" />
+              <folding>
+                <element signature="e#0#879#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/matrixQury_15.java">
+        <entry file="file://$PROJECT_DIR$/src/MatrixFlips_15.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="13" selection-start-column="13" selection-end-column="13" />
+            <state relative-caret-position="-280">
+              <caret line="11" column="57" selection-start-line="11" selection-start-column="57" selection-end-line="11" selection-end-column="57" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
@@ -98,6 +198,33 @@
         <option value="$PROJECT_DIR$/src/sqrt.java" />
         <option value="$PROJECT_DIR$/src/StripeOAmy.java" />
         <option value="$PROJECT_DIR$/src/matrixQury_15.java" />
+        <option value="$PROJECT_DIR$/src/CoolFeatture_1.java" />
+        <option value="$PROJECT_DIR$/src/digitsProductSum_2.java" />
+        <option value="$PROJECT_DIR$/src/digitsSum_3.java" />
+        <option value="$PROJECT_DIR$/src/DivideArray_4.java" />
+        <option value="$PROJECT_DIR$/src/DivisorSubString_5.java" />
+        <option value="$PROJECT_DIR$/src/DivisorSubStrings_6.java" />
+        <option value="$PROJECT_DIR$/src/GoodTuple_8.java" />
+        <option value="$PROJECT_DIR$/src/isPrefix_9.java" />
+        <option value="$PROJECT_DIR$/src/Keyboard_10.java" />
+        <option value="$PROJECT_DIR$/src/KillNthPeople_11.java" />
+        <option value="$PROJECT_DIR$/src/LongestBalancedBinary_12.java" />
+        <option value="$PROJECT_DIR$/src/MatrixQueries_13.java" />
+        <option value="$PROJECT_DIR$/src/MatrixQuery_14.java" />
+        <option value="$PROJECT_DIR$/src/FindEvenDigits_7.java" />
+        <option value="$PROJECT_DIR$/src/MaxArithmeticLength_16.java" />
+        <option value="$PROJECT_DIR$/src/MaxRibbon_18.java" />
+        <option value="$PROJECT_DIR$/src/MostFrequentDigits_19.java" />
+        <option value="$PROJECT_DIR$/src/rameWindows_20.java" />
+        <option value="$PROJECT_DIR$/src/removeOneDigits_21.java" />
+        <option value="$PROJECT_DIR$/src/reverseDigitsInPairs_22.java" />
+        <option value="$PROJECT_DIR$/src/rotataString_23.java" />
+        <option value="$PROJECT_DIR$/src/RotateOverDiagonals_24.java" />
+        <option value="$PROJECT_DIR$/src/SortArrayElements_25.java" />
+        <option value="$PROJECT_DIR$/src/sortDiagnal_26.java" />
+        <option value="$PROJECT_DIR$/src/SumOfString_27.java" />
+        <option value="$PROJECT_DIR$/src/MatrixFlips.java" />
+        <option value="$PROJECT_DIR$/src/MatrixFlips_15.java" />
       </list>
     </option>
   </component>
@@ -147,7 +274,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1571003823862" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1571011468756" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -163,6 +290,20 @@
       </list>
     </option>
   </component>
+  <component name="RunManager">
+    <configuration name="MatrixFlips_15" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MatrixFlips_15" />
+      <module name="Test" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MatrixFlips_15" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -173,46 +314,78 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1571002823246</updated>
-      <workItem from="1571002826588" duration="833000" />
+      <workItem from="1571002826588" duration="7816000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="833000" />
+    <option name="totallyTimeSpent" value="7816000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="2208" height="1208" extended-state="6" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
-      <window_info id="Image Layers" />
       <window_info id="Designer" />
-      <window_info id="UI Designer" />
+      <window_info id="Image Layers" />
       <window_info id="Capture Tool" />
+      <window_info id="UI Designer" />
+      <window_info id="Favorites" side_tool="true" />
       <window_info id="Learn" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24976744" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Messages" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32961932" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Theme Preview" />
       <window_info anchor="right" id="Maven" />
+      <window_info anchor="right" id="Palette" />
       <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Palette&#9;" />
       <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Theme Preview" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
+    <layout-to-restore>
+      <window_info id="Learn" order="0" />
+      <window_info id="Image Layers" order="1" />
+      <window_info id="Designer" order="2" />
+      <window_info id="UI Designer" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="6" visible="true" weight="0.24976744" />
+      <window_info id="Structure" order="7" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="1" />
+      <window_info anchor="bottom" id="Terminal" order="2" />
+      <window_info anchor="bottom" id="Database Changes" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="5" />
+      <window_info anchor="bottom" id="Find" order="6" />
+      <window_info anchor="bottom" id="Run" order="7" />
+      <window_info anchor="bottom" id="Debug" order="8" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="11" />
+      <window_info anchor="right" id="Palette" order="0" />
+      <window_info anchor="right" id="Theme Preview" order="1" />
+      <window_info anchor="right" id="Capture Analysis" order="2" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="6" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="7" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="8" weight="0.25" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -239,24 +412,90 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/KillNthPeople_11.java">
+    <entry file="file://$PROJECT_DIR$/src/CoolFeatture_1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="15" column="16" lean-forward="true" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/digitsProductSum_2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="2" column="15" lean-forward="true" selection-start-line="2" selection-start-column="15" selection-end-line="2" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/digitsSum_3.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <caret line="3" selection-start-line="3" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DivideArray_4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="5" column="10" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DivisorSubString_5.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="3" selection-start-line="3" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DivisorSubStrings_6.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="12" column="10" selection-start-line="12" selection-start-column="10" selection-end-line="12" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/GoodTuple_8.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="10" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/isPrefix_9.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="2" selection-start-line="2" selection-start-column="2" selection-end-line="4" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Keyboard_10.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="14" column="10" selection-start-line="14" selection-start-column="10" selection-end-line="14" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/KillNthPeople_11.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/LongestBalancedBinary_12.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
-          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+          <caret line="3" selection-start-line="3" selection-start-column="2" selection-end-line="4" selection-end-column="66" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/MatrixQueries_13.java">
+    <entry file="file://$PROJECT_DIR$/src/MatrixQuery_14.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        <state relative-caret-position="152">
+          <caret line="18" column="36" selection-start-line="18" selection-start-column="36" selection-end-line="18" selection-end-column="36" />
+          <folding>
+            <element signature="n#!!doc;n#MatrixQuery_14#0" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -264,6 +503,129 @@
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="13" selection-start-column="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MatrixQueries_13.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="28" column="13" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/FindEvenDigits_7.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" selection-start-line="1" selection-end-line="4" />
+          <folding>
+            <element signature="e#0#748#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MaximumAreaServingCake_17.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="57" lean-forward="true" selection-start-line="3" selection-start-column="57" selection-end-line="3" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MaxArithmeticLength_16.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="14" column="55" selection-start-line="14" selection-start-column="55" selection-end-line="14" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MaxRibbon_18.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-start-column="2" selection-end-line="2" selection-end-column="107" />
+          <folding>
+            <element signature="e#0#1119#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MostFrequentDigits_19.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" selection-start-line="2" selection-start-column="2" selection-end-line="6" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/rameWindows_20.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-start-column="2" selection-end-line="17" selection-end-column="11" />
+          <folding>
+            <element signature="e#0#994#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/removeOneDigits_21.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-start-column="2" selection-end-line="2" selection-end-column="58" />
+          <folding>
+            <element signature="e#0#4311#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/reverseDigitsInPairs_22.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="2" selection-start-line="2" selection-start-column="2" selection-end-line="3" selection-end-column="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/rotataString_23.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="22" selection-start-column="22" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/RotateOverDiagonals_24.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="44" selection-start-line="2" selection-start-column="44" selection-end-line="2" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SortArrayElements_25.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="5" column="22" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sortDiagnal_26.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="24" column="38" selection-start-line="24" selection-start-column="38" selection-end-line="24" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SumOfString_27.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="29" selection-start-line="5" selection-start-column="29" selection-end-line="5" selection-end-column="29" />
+          <folding>
+            <element signature="e#0#879#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MatrixFlips_15.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-280">
+          <caret line="11" column="57" selection-start-line="11" selection-start-column="57" selection-end-line="11" selection-end-column="57" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

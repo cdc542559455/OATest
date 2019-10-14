@@ -1,3 +1,9 @@
+
+//Find how many numbers have even digit in a list.
+//        Ex.Input: A = [12, 3, 5, 3456]
+//        Output: 2
+
+
 public class FindEvenDigits_7 {
     public static void main(String[] args) {
         System.out.println(findEvenDigits(new int[] {12, 3, 5, 3456}));

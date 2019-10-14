@@ -1,6 +1,9 @@
 import java.util.LinkedList;
 import java.util.List;
 
+//8. 花式数位求和
+//        25631 -> 2 - 5 + 6 - 3 +1
+
 public class digitsSum_3 {
     public static void main(String[] args) {
         System.out.println(digitSum(128));

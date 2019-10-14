@@ -1,3 +1,7 @@
+//17 4. Maximum size of ribbon
+//        Given a list representing the length of ribbon, and the target number "k" parts of ribbon.
+//        we want to cut ribbon into k parts with the same size, at the same time we want the maximum size.
+
 public class MaxRibbon_18 {
 
     public static void main(String[] args) {

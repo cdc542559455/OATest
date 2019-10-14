@@ -1,4 +1,9 @@
+//remove exact one digit char from string s or t, so that s < t;
+//input: String s1,s2 (lower case letters and digits)
+//        output: number of ways to remove the digit char.
+
 public class removeOneDigits_21 {
+
     public static int result = 0;
 
     public static void main(String[] args) {

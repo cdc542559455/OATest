@@ -1,5 +1,11 @@
 import java.util.*;
 
+//5. most Frequent Digits
+//        出现频率最高的数字
+//        Input: A = [22, 2, 3, 33, 5]
+//        Output: [2, 3]
+//        开始有一个case过不了，后来重新初始化了一下dictionary， 可能是A=[]的情况
+
 public class MostFrequentDigits_19 {
     public static void main(String[] args) {
         System.out.println(topFrequent(new int[] {22, 2, 3, 33, 555}));

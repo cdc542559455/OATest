@@ -1,5 +1,8 @@
 import java.util.HashSet;
 import java.util.Set;
+//isPrefix，给两个str array a，b，判断b里面的所有str是不是都是a的str各种组合黏在一起而成的
+//
+//        Sol: 直接建立所有a里面str的permutation然后存入set里
 
 public class isPrefix_9 {
     private static Set<String> s;

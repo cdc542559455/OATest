@@ -1,5 +1,6 @@
 import java.util.Arrays;
 
+// rotate over diagonals k times in a matrix
 public class RotateOverDiagonals_24 {
     public static void main(String[] args) {
         int[][] test1 = {{1,2,3},{4,5,6},{7,8,9}};

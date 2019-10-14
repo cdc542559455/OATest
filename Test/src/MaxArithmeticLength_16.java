@@ -1,6 +1,12 @@
 import java.util.HashMap;
 import java.util.HashSet;
 import java.util.Set;
+//max Arithmetic Length
+//        input A:[0, 4, 8, 16]
+//        input B:[0, 2, 6, 12, 14, 20]
+//        output: ‍‍‌‌‍‍‍‌‌‍‍‌‍‍‍‍‌‍‌新的A 的长度
+//        从B中最多能选几个数字使得 A 变成一个任意两个数之间的差是相等的数组， 例如：[0, 4, 8, 12, 16, 20]
+//        千年难题，还是不会
 
 public class MaxArithmeticLength_16 {
     public static void main(String[] args) {

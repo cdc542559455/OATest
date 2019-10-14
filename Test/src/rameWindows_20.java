@@ -1,3 +1,22 @@
+//
+//rameWindow (有点忘记名字了) : Given an int n, print the *** window frame of the number;
+//        Example: input -> n = 6
+//        output -> [
+//        "********", --> 8 *
+//        "*           *", -> 2 * 加 六个 ' ' (space)
+//        "*           *",
+//        "*           *",
+//        "*           *",
+//        "********"
+//        ]
+//
+//        Input -> n = 3;
+//        Output -> [
+//        "***“，
+//        ”*  *“，
+//        ”***
+//        ]
+
 public class rameWindows_20 {
     public static void main(String[] args) {
         // n > 3

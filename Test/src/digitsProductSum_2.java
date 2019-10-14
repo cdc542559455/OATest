@@ -1,5 +1,6 @@
 import java.util.LinkedList;
 import java.util.List;
+//11 给一个数num, 返回这个数每一个digit的乘积: product 和 每一位digit的和: sum的差值
 
 public class digitsProductSum_2 {
     public static void main(String[] args) {

@@ -1,5 +1,7 @@
 import java.util.LinkedList;
 import java.util.List;
+//reverseDigitsInPairs
+//        就是把一个integer reverse 成另一个integer, 不用考虑末尾‍‍‌‌‌‍‍‍‍‌‍‍‌‍‌‌‌‍‍是0和溢出
 
 public class reverseDigitsInPairs_22 {
     public static void main(String[] args) {

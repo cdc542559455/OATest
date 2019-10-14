@@ -1,6 +1,9 @@
 import java.util.HashMap;
 import java.util.Map;
 
+//longestEqualSubarray
+//        int fun(int[] a), a 由 1 和 0 组成. 求 0，1个数相同的subarray 最大长度.
+
 public class LongestBalancedBinary_12 {
 
     public static void main(String[] args) {

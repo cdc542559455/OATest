@@ -1,4 +1,11 @@
+//2. SumOfString
+//        链接里第二题：Here
+//        String fun(String a, String b) a 和 b数字组成, a和b的第ith个数字依次相加, 返回新String
+//        eg. a = "99" b = "1"   return    "910"
+
 public class SumOfString_27 {
+
+
     public static void main(String[] args) {
         System.out.println(sumOfString("99","99"));
     }
